@@ -1,0 +1,205 @@
+* {
+    font-family: Georgia, monospace;
+    color: white;
+    font-size: 25px;
+    box-sizing: border-box;
+}
+
+@keyframes faderechts {
+    0% {
+        opacity: 0;
+        transform: translateX(100px)
+    }
+    100% {
+        opacity: 60%;
+        transform: translateX(0);
+    }
+}
+
+@keyframes fadelinks {
+    0% {
+        opacity: 0;
+        transform: translateX(-100px)
+    }
+    100% {
+        opacity: 60%;
+        transform: translateX(0);
+    }
+}
+
+@keyframes fadecenter {
+    0% {
+        opacity: 0;
+        transform: translateY(100px)
+    }
+    100% {
+        opacity: 60%;
+        transform: translateY(0);
+    }
+}
+
+@keyframes fadefoto {
+    0% {
+        opacity: 0;
+        transform: translateX(-100px)
+    }
+    100% {
+        opacity: 100%;
+        transform: translateX(0);
+    }
+}
+
+body {
+    background-image: url("blackbackground.png");
+    background-size: 100%;
+}
+
+header {
+    background-color: #303036;
+    height: 40px;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+
+#navlink {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    list-style-type: none;
+}
+
+.navlink {
+    text-decoration: none;
+}
+
+a:hover {
+    font-size: large;
+    color: gold;
+}
+
+h1 {
+    margin-left: 200px;
+    margin-top: 50px;
+    text-decoration: underline;
+    font-size: 40px;
+}
+
+h3 {
+    text-decoration: underline;
+}
+
+
+img:hover {
+    box-shadow: 10px 10px 50px lightgreen;
+}
+
+img:active {
+    border: darkgreen solid 5px;
+}
+
+#linkedin {
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+}
+
+#Profielfoto {
+    margin-top: 50px;
+    margin-left: 300px;
+    width: 260px;
+    height: 300px;
+    border-radius: 50px;
+    animation: fadefoto;
+    animation-duration: 5s;
+}
+
+.divbody {
+    display: inline-block;
+    border: darkgreen solid 5px;
+    border-radius: 15px;
+    background-color: #303036;
+    opacity: 60%;
+    width: auto;
+    margin-top: 50px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+footer {
+    height: 250px;
+    background-color: #303036;
+    margin-top: 50px;
+    border-top: solid 5px darkgreen;
+}
+
+.divfooter {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 75%;
+}
+
+#Mijzelf {
+    display: inline-block;
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    width: 850px;
+    animation: fadecenter;
+    animation-duration: 5s;
+}
+
+#Gegevens {
+    margin-left: 200px;
+    animation: fadelinks;
+    animation-duration: 5s;
+}
+
+#Studies {
+    margin-left: 150px;
+    animation: faderechts;
+    animation-duration: 5s;
+}
+
+#Werk {
+    text-align: center;
+    margin-left: 50px;
+    animation: fadelinks;
+    animation-duration: 5s;
+}
+
+#Vaardigheden {
+    display: flex;
+    animation: faderechts;
+    animation-duration: 5s;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 10px;
+    border: #303036 solid 5px;
+}
+
+th {
+    border-collapse: collapse;
+    background-color: dimgrey;
+    border: #303036 solid 5px;
+}
+
+td {
+    border-collapse: collapse;
+    width: 250px;
+    padding-left: 10px;
+    border: #303036 solid 5px;
+}
+
+tr:nth-child(even) {
+    background-color: dimgrey;
+    opacity: 75%;
+}
+
+tr:nth-child(odd) {
+    background-color: green;
+    opacity: 75%;
+}
