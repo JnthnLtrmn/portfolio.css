@@ -1,24 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="813e8245-eee6-4941-8b1e-2ba719991913" name="Changes" comment="versie met responsivenes, tabel nog aan passen">
-      <change afterPath="$PROJECT_DIR$/Competenties.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Competenties.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Info.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Info.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Logboek.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Logboek.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ontwikkeling.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ontwikkeling.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projecten.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projecten.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Reflectie.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Reflectie.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Portofolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/Portofolio.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/Responsive.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portofolio.css" beforeDir="false" afterPath="$PROJECT_DIR$/portofolio.css" afterDir="false" />
-    </list>
+    <list default="true" id="813e8245-eee6-4941-8b1e-2ba719991913" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -96,6 +79,7 @@
       <workItem from="1670747819359" duration="599000" />
       <workItem from="1670763778559" duration="63000" />
       <workItem from="1670848480644" duration="55000" />
+      <workItem from="1670858563953" duration="371000" />
     </task>
     <task id="LOCAL-00001" summary="versie met responsivenes, tabel nog aan passen">
       <created>1669041836764</created>
@@ -118,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669042102169</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="versie met responsivenes, tabel nog aan passen">
+      <created>1670858604103</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1670858604103</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
