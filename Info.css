@@ -6,6 +6,20 @@
     margin: 0;
 }
 
+body {
+    background-image: url("blackbackground.png");
+    background-size: 100%;
+    margin: 0;
+}
+
+header {
+    background-color: #303036;
+    height: 40px;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+
 @keyframes faderechts {
     0% {
         opacity: 0;
@@ -39,30 +53,6 @@
     }
 }
 
-@keyframes fadefoto {
-    0% {
-        opacity: 0;
-        transform: translateX(-100px)
-    }
-    100% {
-        opacity: 100%;
-        transform: translateX(0);
-    }
-}
-
-body {
-    background-image: url("blackbackground.png");
-    background-size: 100%;
-}
-
-header {
-    background-color: #303036;
-    height: 40px;
-    position: sticky;
-    top: 0;
-    z-index: 1;
-}
-
 #navlink {
     display: flex;
     flex-direction: row;
@@ -88,33 +78,7 @@ h1 {
 }
 
 h3 {
-    text-decoration: underline;
-}
-
-
-img:hover {
-    box-shadow: 10px 10px 50px lightgreen;
-}
-
-img:active {
-    border: darkgreen solid 5px;
-}
-
-.linkedin {
-    height: 50px;
-    width: 50px;
-    border-radius: 50px;
-}
-
-#Profielfoto {
-    position: absolute;
-    margin-top: 50px;
-   margin-left: 300px;
-    width: 260px;
-    height: 300px;
-    border-radius: 50px;
-    animation: fadefoto;
-    animation-duration: 5s;
+    margin-right: 20px;
 }
 
 .divbody {
@@ -124,8 +88,35 @@ img:active {
     background-color: #303036;
     opacity: 60%;
     width: auto;
-    margin-top: 70px;
+    margin-top: 50px;
     padding: 30px;
+}
+
+#Mijzelf {
+    display: flex;
+    width: 850px;
+    animation: fadelinks;
+    animation-duration: 5s;
+    margin-left: 15%;
+    text-align: justify;
+}
+
+#Opleiding {
+    display: flex;
+    width: 850px;
+    animation: faderechts;
+    animation-duration: 5s;
+    margin-left: 50%;
+    text-align: justify;
+}
+
+#Beroep {
+    display: flex;
+    width: 850px;
+    animation: fadelinks;
+    animation-duration: 5s;
+    margin-left: 15%;
+    text-align: justify;
 }
 
 #Footer {
@@ -174,57 +165,16 @@ img:active {
     text-decoration: none;
 }
 
-#Gegevens {
-    margin-left: 50%;
-    animation: faderechts;
-    animation-duration: 5s;
+.linkedin {
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
 }
 
-#Studies {
-    margin-left: 15%;
-    animation: fadelinks;
-    animation-duration: 5s;
+img:hover {
+    box-shadow: 10px 10px 50px lightgreen;
 }
 
-#Werk {
-    margin-left: 50px;
-    animation: fadelinks;
-    animation-duration: 5s;
-}
-
-#Vaardigheden {
-    display: flex;
-    animation: faderechts;
-    animation-duration: 5s;
-    margin-left: 20px;
-    margin-right: 20px;
-}
-
-table {
-    border-collapse: collapse;
-    margin: 10px;
-    border: #303036 solid 5px;
-}
-
-th {
-    border-collapse: collapse;
-    background-color: dimgrey;
-    border: #303036 solid 5px;
-}
-
-td {
-    border-collapse: collapse;
-    width: 250px;
-    padding-left: 10px;
-    border: #303036 solid 5px;
-}
-
-tr:nth-child(even) {
-    background-color: dimgrey;
-    opacity: 75%;
-}
-
-tr:nth-child(odd) {
-    background-color: green;
-    opacity: 75%;
+img:active {
+    border: darkgreen solid 5px;
 }

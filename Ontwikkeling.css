@@ -1,0 +1,41 @@
+* {
+    font-family: Georgia, monospace;
+    color: white;
+    font-size: 25px;
+    box-sizing: border-box;
+    margin: 0;
+}
+body {
+    background-image: url("blackbackground.png");
+    background-size: 100%;
+    margin: 0;
+}
+header {
+    background-color: #303036;
+    height: 40px;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+#navlink {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    list-style-type: none;
+}
+
+.navlink {
+    text-decoration: none;
+}
+
+a:hover {
+    font-size: large;
+    color: gold;
+}
+h1 {
+    margin-left: 200px;
+    margin-top: 50px;
+    text-decoration: underline;
+    font-size: 40px;
+}

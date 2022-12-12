@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="813e8245-eee6-4941-8b1e-2ba719991913" name="Changes" comment="versie met responsivenes, tabel nog aan passen" />
+    <list default="true" id="813e8245-eee6-4941-8b1e-2ba719991913" name="Changes" comment="versie met responsivenes, tabel nog aan passen">
+      <change afterPath="$PROJECT_DIR$/Competenties.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Competenties.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Info.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Info.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logboek.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logboek.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ontwikkeling.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ontwikkeling.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projecten.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projecten.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reflectie.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reflectie.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portofolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/Portofolio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/Responsive.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portofolio.css" beforeDir="false" afterPath="$PROJECT_DIR$/portofolio.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,17 +49,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/12203081/WebstormProjects/Portofolio",
-    "list.type.of.created.stylesheet": "CSS",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/12203081/WebstormProjects/Portofolio&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -70,6 +87,15 @@
       <workItem from="1669026459213" duration="318000" />
       <workItem from="1669041450832" duration="177000" />
       <workItem from="1669041659008" duration="403000" />
+      <workItem from="1669042076251" duration="44000" />
+      <workItem from="1669042243713" duration="45000" />
+      <workItem from="1669214028297" duration="66000" />
+      <workItem from="1669648197402" duration="25000" />
+      <workItem from="1669819602150" duration="23000" />
+      <workItem from="1670579596788" duration="19949000" />
+      <workItem from="1670747819359" duration="599000" />
+      <workItem from="1670763778559" duration="63000" />
+      <workItem from="1670848480644" duration="55000" />
     </task>
     <task id="LOCAL-00001" summary="versie met responsivenes, tabel nog aan passen">
       <created>1669041836764</created>
@@ -85,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669041989124</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="versie met responsivenes, tabel nog aan passen">
+      <created>1669042102169</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1669042102169</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
