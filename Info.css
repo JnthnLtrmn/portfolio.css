@@ -91,6 +91,9 @@ h3 {
     margin-top: 50px;
     padding: 30px;
 }
+.divbody:hover{
+    box-shadow: 10px 10px 50px lightgreen;
+}
 
 #Mijzelf {
     display: flex;

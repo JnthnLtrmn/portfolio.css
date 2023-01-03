@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="813e8245-eee6-4941-8b1e-2ba719991913" name="Changes" comment="" />
+    <list default="true" id="813e8245-eee6-4941-8b1e-2ba719991913" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Portfolio Engels.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio Engels.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Startpagina.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Startpagina.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Competenties.css" beforeDir="false" afterPath="$PROJECT_DIR$/Competenties.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Competenties.html" beforeDir="false" afterPath="$PROJECT_DIR$/Competenties.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Info.css" beforeDir="false" afterPath="$PROJECT_DIR$/Info.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logboek.css" beforeDir="false" afterPath="$PROJECT_DIR$/Logboek.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ontwikkeling.css" beforeDir="false" afterPath="$PROJECT_DIR$/Ontwikkeling.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ontwikkeling.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ontwikkeling.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projecten.css" beforeDir="false" afterPath="$PROJECT_DIR$/Projecten.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projecten.html" beforeDir="false" afterPath="$PROJECT_DIR$/Projecten.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reflectie.css" beforeDir="false" afterPath="$PROJECT_DIR$/Reflectie.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reflectie.html" beforeDir="false" afterPath="$PROJECT_DIR$/Reflectie.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portofolio.css" beforeDir="false" afterPath="$PROJECT_DIR$/portofolio.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,7 +96,21 @@
       <workItem from="1670747819359" duration="599000" />
       <workItem from="1670763778559" duration="63000" />
       <workItem from="1670848480644" duration="55000" />
-      <workItem from="1670858563953" duration="371000" />
+      <workItem from="1670858563953" duration="476000" />
+      <workItem from="1671028954792" duration="14000" />
+      <workItem from="1671045224109" duration="54000" />
+      <workItem from="1671045446441" duration="16000" />
+      <workItem from="1671045542397" duration="69000" />
+      <workItem from="1671045640616" duration="37000" />
+      <workItem from="1671110116825" duration="57000" />
+      <workItem from="1671190463310" duration="10000" />
+      <workItem from="1671780843551" duration="4855000" />
+      <workItem from="1671791653642" duration="1366000" />
+      <workItem from="1672051390583" duration="5142000" />
+      <workItem from="1672136907162" duration="3327000" />
+      <workItem from="1672344721763" duration="4602000" />
+      <workItem from="1672741899441" duration="8275000" />
+      <workItem from="1672772549646" duration="3401000" />
     </task>
     <task id="LOCAL-00001" summary="versie met responsivenes, tabel nog aan passen">
       <created>1669041836764</created>
@@ -109,7 +140,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670858604103</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="versie met responsivenes, tabel nog aan passen">
+      <created>1670859008885</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1670859008885</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -1,0 +1,26 @@
+* {
+    font-family: Georgia, monospace;
+    color: white;
+    font-size: 25px;
+    box-sizing: border-box;
+    margin: 0;
+}
+body {
+    background-image: url("blackbackground.png");
+    background-size: 100%;
+}
+img:hover {
+    box-shadow: 10px 10px 50px lightgreen;
+}
+
+img:active {
+    border: darkgreen solid 5px;
+}
+.vlaggen{
+    display: flex;
+justify-content: space-around;
+    margin-top: 20%;
+}
+img {
+    border-radius: 25%;
+}

@@ -48,6 +48,9 @@ table{
 td{
     padding: 5px;
 }
+tr:hover{
+    box-shadow: 10px 10px 50px lightgreen;
+}
 tr:nth-child(even) {
     background-color: dimgrey;
     opacity: 75%;

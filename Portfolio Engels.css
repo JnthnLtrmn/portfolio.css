@@ -109,7 +109,7 @@ img:active {
 #Profielfoto {
     position: absolute;
     margin-top: 50px;
-   margin-left: 300px;
+    margin-left: 300px;
     width: 260px;
     height: 300px;
     border-radius: 50px;
@@ -191,7 +191,7 @@ img:active {
 }
 
 #Werk {
-    margin-left: 50px;
+    margin-left: 8%;
     animation: fadelinks;
     animation-duration: 5s;
 }
@@ -200,8 +200,9 @@ img:active {
     display: flex;
     animation: faderechts;
     animation-duration: 5s;
-    margin-left: 20px;
+    margin-left: 10%;
     margin-right: 20px;
+    width: 75%;
 }
 
 table {
