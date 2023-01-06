@@ -1,0 +1,165 @@
+* {
+    font-family: Georgia, monospace;
+    color: white;
+    font-size: 25px;
+    box-sizing: border-box;
+    margin: 0;
+}
+
+@keyframes faderechts {
+    0% {
+        opacity: 0;
+        transform: translateX(100px)
+    }
+    100% {
+        opacity: 60%;
+        transform: translateX(0);
+    }
+}
+
+@keyframes fadelinks {
+    0% {
+        opacity: 0;
+        transform: translateX(-100px)
+    }
+    100% {
+        opacity: 60%;
+        transform: translateX(0);
+    }
+}
+
+body {
+    background-image: url("blackbackground.png");
+    background-size: 100%;
+    margin: 0;
+}
+
+header {
+    background-color: #303036;
+    height: 40px;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+
+#navlink {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    list-style-type: none;
+}
+
+.navlink {
+    text-decoration: none;
+}
+
+a:hover {
+    font-size: large;
+    color: gold;
+}
+
+h1 {
+    margin-left: 200px;
+    margin-top: 50px;
+    text-decoration: underline;
+    font-size: 40px;
+}
+
+.divbody {
+    display: inline-block;
+    border: darkgreen solid 5px;
+    border-radius: 15px;
+    background-color: #303036;
+    opacity: 60%;
+    width: auto;
+    margin-top: 70px;
+    padding: 30px;
+}
+.divbody:hover{
+    box-shadow: 10px 10px 50px lightgreen;
+}
+
+.Punten {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+#WaarStaIk {
+    width: 750px;
+    animation: fadelinks;
+    animation-duration: 5s;
+}
+
+#Sterkpunt {
+    width: 750px;
+    animation: faderechts;
+    animation-duration: 5s;
+}
+
+#Werkpunt {
+    width: 750px;
+    animation: fadelinks;
+    animation-duration: 5s;
+}
+
+#Footer {
+    display: flex;
+    height: 150px;
+    background-color: #303036;
+    margin-top: 50px;
+    border-top: solid 5px darkgreen;
+}
+
+#Footergegevens {
+    display: flex;
+    font-size: medium;
+    justify-content: flex-start;
+    align-items: flex-end;
+    margin-left: 15px;
+    margin-bottom: 15px;
+    width: 190px;
+}
+
+#Foottop {
+    position: absolute;
+    margin-left: 15px;
+}
+
+#Footersocial {
+    display: flex;
+    align-items: flex-end;
+    width: 100%;
+    justify-content: flex-end;
+}
+
+#ulfooter {
+    list-style: none;
+    margin: 15px;
+    text-align: end;
+}
+
+.lifooter {
+    font-size: medium;
+    margin-top: 10px;
+}
+
+#mail {
+    font-size: medium;
+    text-decoration: none;
+}
+
+.linkedin {
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+}
+img:hover {
+    box-shadow: 10px 10px 50px lightgreen;
+}
+
+img:active {
+    border: darkgreen solid 5px;
+}
