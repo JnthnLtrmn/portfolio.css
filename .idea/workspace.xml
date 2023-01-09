@@ -1,29 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="813e8245-eee6-4941-8b1e-2ba719991913" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Competenties Engels.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Competenties Engels.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Info Engels.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Info Engels.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Logboek Engels.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Logboek Engels.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ontwikkeling Engels.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ontwikkeling Engels.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projecten Engels.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projecten Engels.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Reflectie Engels.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Reflection Engels.css" afterDir="false" />
+    <list default="true" id="813e8245-eee6-4941-8b1e-2ba719991913" name="Changes" comment="Finale versie">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Competenties.html" beforeDir="false" afterPath="$PROJECT_DIR$/Competenties.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Info.html" beforeDir="false" afterPath="$PROJECT_DIR$/Info.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Logboek.html" beforeDir="false" afterPath="$PROJECT_DIR$/Logboek.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ontwikkeling.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ontwikkeling.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Portfolio Engels.html" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio Engels.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Portofolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/Portofolio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projecten Engels.css" beforeDir="false" afterPath="$PROJECT_DIR$/Projecten Engels.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projecten Engels.html" beforeDir="false" afterPath="$PROJECT_DIR$/Projecten Engels.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projecten.css" beforeDir="false" afterPath="$PROJECT_DIR$/Projecten.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Projecten.html" beforeDir="false" afterPath="$PROJECT_DIR$/Projecten.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reflectie.css" beforeDir="false" afterPath="$PROJECT_DIR$/Reflectie.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Reflectie.html" beforeDir="false" afterPath="$PROJECT_DIR$/Reflectie.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reflection Engels.css" beforeDir="false" afterPath="$PROJECT_DIR$/Reflection Engels.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Responsive.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Startpagina.css" beforeDir="false" afterPath="$PROJECT_DIR$/Startpagina.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Startpagina.html" beforeDir="false" afterPath="$PROJECT_DIR$/Startpagina.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portofolio.css" beforeDir="false" afterPath="$PROJECT_DIR$/portofolio.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,17 +50,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/12203081/WebstormProjects/playstation",
-    "list.type.of.created.stylesheet": "CSS",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/12203081/WebstormProjects/Portofolio&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -117,7 +112,22 @@
       <workItem from="1672344721763" duration="4602000" />
       <workItem from="1672741899441" duration="8275000" />
       <workItem from="1672772549646" duration="7507000" />
-      <workItem from="1673004753852" duration="3955000" />
+      <workItem from="1673004753852" duration="6601000" />
+      <workItem from="1673039658842" duration="169000" />
+      <workItem from="1673094385415" duration="844000" />
+      <workItem from="1673095274875" duration="25000" />
+      <workItem from="1673096224008" duration="363000" />
+      <workItem from="1673097201191" duration="997000" />
+      <workItem from="1673125889754" duration="732000" />
+      <workItem from="1673183812954" duration="126000" />
+      <workItem from="1673183958455" duration="202000" />
+      <workItem from="1673254547393" duration="51000" />
+      <workItem from="1673266479179" duration="252000" />
+      <workItem from="1673266746350" duration="18000" />
+      <workItem from="1673271715940" duration="3188000" />
+      <workItem from="1673280748738" duration="15000" />
+      <workItem from="1673290065794" duration="160000" />
+      <workItem from="1673290333827" duration="1308000" />
     </task>
     <task id="LOCAL-00001" summary="versie met responsivenes, tabel nog aan passen">
       <created>1669041836764</created>
@@ -161,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672777514893</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="versie met responsivenes, tabel nog aan passen">
+      <created>1673011928809</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1673011928809</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -169,6 +186,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="versie met responsivenes, tabel nog aan passen" />
-    <option name="LAST_COMMIT_MESSAGE" value="versie met responsivenes, tabel nog aan passen" />
+    <MESSAGE value="Finale versie" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finale versie" />
   </component>
 </project>

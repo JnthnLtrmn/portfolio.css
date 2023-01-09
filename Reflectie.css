@@ -43,7 +43,6 @@ header {
 }
 
 .divbody {
-
     border: darkgreen solid 5px;
     border-radius: 15px;
     background-color: #303036;
@@ -53,7 +52,9 @@ header {
     padding: 30px;
 
 }
-
+.divbody:hover{
+    box-shadow: 10px 10px 50px lightgreen;
+}
 .divbody > img {
     border-radius: 50%;
     height: 10vh;

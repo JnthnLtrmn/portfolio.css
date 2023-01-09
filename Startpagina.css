@@ -1,7 +1,6 @@
 * {
     font-family: Georgia, monospace;
     color: white;
-    font-size: 25px;
     box-sizing: border-box;
     margin: 0;
 }
@@ -12,15 +11,32 @@ body {
 img:hover {
     box-shadow: 10px 10px 50px lightgreen;
 }
-
+.divWelkom{
+    display: flex;
+    justify-content: center;
+    margin-top: 10%;
+    font-size: 100px;
+    animation: fadecenter;
+    animation-duration: 5s;
+}
 img:active {
     border: darkgreen solid 5px;
 }
 .vlaggen{
     display: flex;
 justify-content: space-around;
-    margin-top: 20%;
+
 }
 img {
     border-radius: 25%;
+}
+@keyframes fadecenter {
+    0% {
+        opacity: 0;
+        transform: translateY(100px)
+    }
+    100% {
+        opacity: 60%;
+        transform: translateY(0);
+    }
 }

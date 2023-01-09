@@ -230,3 +230,55 @@ img:active {
     width: 60%;
     text-align: center;
 }
+.divblack{
+    display: flex;
+    align-items: flex-end;
+    margin-left: 10%;
+    animation: fadelinks;
+    animation-duration: 5s;
+}
+.divblack > img{
+    width: 250px;
+    height: 250px;
+    margin: 25px;
+    border-radius: 20%;
+}
+#Blackjack{
+    width: 60%;
+    text-align: center;
+}
+.divport{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    margin-right: 10%;
+    animation: faderechts;
+    animation-duration: 5s;
+}
+.divport > img{
+    width: 250px;
+    height: 250px;
+    margin: 25px;
+    border-radius: 20%;
+}
+#Portfolio{
+    width: 60%;
+    text-align: center;
+}
+.divCV{
+    display: flex;
+    align-items: flex-end;
+    margin-left: 10%;
+    animation: fadelinks;
+    animation-duration: 5s;
+}
+.divCV > img{
+    width: 250px;
+    height: 250px;
+    margin: 25px;
+    border-radius: 20%;
+}
+#CV {
+    width: 60%;
+    text-align: center;
+}

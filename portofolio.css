@@ -115,6 +115,7 @@ img:active {
     border-radius: 50px;
     animation: fadefoto;
     animation-duration: 5s;
+
 }
 
 .divbody {
@@ -182,6 +183,7 @@ img:active {
     margin-left: 50%;
     animation: faderechts;
     animation-duration: 5s;
+    margin-top: 50px;
 }
 
 #Studies {
